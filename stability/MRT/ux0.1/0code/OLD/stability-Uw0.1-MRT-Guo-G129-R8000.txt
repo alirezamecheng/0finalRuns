@@ -1,0 +1,21 @@
+Your Selected Method for solver is :MRT_Guo
+Re = 8000.0 Ux = 0.1 (Nx1 , Ny1) ==> (129,129)
+======================================================================
+Itterate = 1000	 RMS_Error = 1.0
+MAX_ABS_U_Error = 0.0460317350477961		 @ ->(128, 103)
+MAX_ABS_V_Error = 0.04150306470411522		 @ ->(122, 128)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 0.002128884370366783	 @ ->(128, 103)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/MRT_Guo_2018.08.29.18.50_Re(8000.0)_Gr(129_129)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+ 11.655188 seconds (634.15 k allocations: 31.603 MiB)

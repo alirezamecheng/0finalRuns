@@ -1,0 +1,21 @@
+Your Selected Method for solver is :Cas_Lalle
+Re = 10000.0 Ux = 0.1 (Nx1 , Ny1) ==> (129,129)
+======================================================================
+Itterate = 1000	 RMS_Error = 1.0
+MAX_ABS_U_Error = 0.11760272751494255		 @ ->(128, 128)
+MAX_ABS_V_Error = 0.08652661854223197		 @ ->(126, 128)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 0.015129890899494574	 @ ->(128, 128)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/Cas_Lalle_2018.09.04.15.21_Re(10000.0)_Gr(129_129)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+  6.963197 seconds (596.58 k allocations: 29.827 MiB)

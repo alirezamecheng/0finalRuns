@@ -1,0 +1,21 @@
+Your Selected Method for solver is :BGK
+Re = 2450.0 Ux = 0.1 (Nx , Ny) ==> (128,128)
+======================================================================
+Itterate = 1000	 RMS_Error = 1.0
+MAX_ABS_U_Error = 0.09569105139918112		 @ ->(128, 66)
+MAX_ABS_V_Error = 0.06325833612275614		 @ ->(123, 128)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 0.010130888896834805	 @ ->(128, 66)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/BGK_2018.08.28.12.28_Re(2450.0)_Gr(129_129)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+  5.906875 seconds (478.14 k allocations: 24.306 MiB)

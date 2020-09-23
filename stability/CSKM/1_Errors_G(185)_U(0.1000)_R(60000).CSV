@@ -1,0 +1,4 @@
+Itterate ,Time ,RMS_Error ,MAX_ABS_U_Error ,MAX_ABS_U_Error_position_X ,MAX_ABS_U_Error_position_Y ,MAX_ABS_V_Error ,MAX_ABS_V_Error_position_X, MAX_ABS_V_Error_position_Y ,MAX_RS_Error ,MAX_RS_Error_Position_X ,MAX_RS_Error_Position_Y ,Bulk_Velocity_ABS_Error ,Bulk_Velocity_ABS_Error_Position_X ,Bulk_Velocity_ABS_Error_Position_Y
+1001,0.523011,-nan,0.0144547,0,221,0.00463869,293,0,1,0,221,0.000218038,0,221,
+2001,1.0455,-nan,0,0,0,0,0,0,0,0,0,0,0,0,
+3001,1.56799,-nan,0,0,0,0,0,0,0,0,0,0,0,0,

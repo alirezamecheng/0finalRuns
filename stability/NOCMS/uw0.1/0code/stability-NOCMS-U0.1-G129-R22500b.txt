@@ -1,0 +1,257 @@
+Your Selected Method for solver is :CMs_NON_Orthogonal
+Re = 22500.0 Ux = 0.1 (Nx1 , Ny1) ==> (129,129)
+======================================================================
+Itterate = 1000	 RMS_Error = 1.0
+MAX_ABS_U_Error = 0.0316455663747396		 @ ->(128, 128)
+MAX_ABS_V_Error = 0.040616206869283716		 @ ->(126, 126)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 0.0018003645946260832	 @ ->(127, 127)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = 0.5080352890649464
+MAX_ABS_U_Error = 0.02649556850762995		 @ ->(123, 122)
+MAX_ABS_V_Error = 0.04148411556958446		 @ ->(122, 128)
+MAX_RS_Error    = 6.6014538870193755		 @ ->(126, 93)
+Bulk_Velocity_ABS_Error = 0.0021229676216399443	 @ ->(121, 127)
+======================================================================
+======================================================================
+Itterate = 3000	 RMS_Error = 0.3734776318949781
+MAX_ABS_U_Error = 0.03296855331835678		 @ ->(116, 119)
+MAX_ABS_V_Error = 0.0364028478354806		 @ ->(112, 126)
+MAX_RS_Error    = 9.456606446374446		 @ ->(114, 119)
+Bulk_Velocity_ABS_Error = 0.001871341122477814	 @ ->(115, 127)
+======================================================================
+======================================================================
+Itterate = 4000	 RMS_Error = 0.45076440889677544
+MAX_ABS_U_Error = 0.028737423324052946		 @ ->(111, 119)
+MAX_ABS_V_Error = 0.034181533021915095		 @ ->(106, 126)
+MAX_RS_Error    = 11.838793036363315		 @ ->(107, 115)
+Bulk_Velocity_ABS_Error = 0.0016397710238897688	 @ ->(105, 126)
+======================================================================
+======================================================================
+Itterate = 5000	 RMS_Error = 0.41629761585014496
+MAX_ABS_U_Error = 0.02390255981423275		 @ ->(93, 120)
+MAX_ABS_V_Error = 0.028862138360848964		 @ ->(100, 126)
+MAX_RS_Error    = 11.878857451321139		 @ ->(104, 113)
+Bulk_Velocity_ABS_Error = 0.0014532835094967006	 @ ->(127, 128)
+======================================================================
+======================================================================
+Itterate = 6000	 RMS_Error = 0.47280095360785035
+MAX_ABS_U_Error = 0.02559405612774492		 @ ->(86, 118)
+MAX_ABS_V_Error = 0.02687641279936239		 @ ->(92, 124)
+MAX_RS_Error    = 16.481168787544842		 @ ->(69, 128)
+Bulk_Velocity_ABS_Error = 0.001402102482404397	 @ ->(95, 125)
+======================================================================
+======================================================================
+Itterate = 7000	 RMS_Error = 0.5456974957693838
+MAX_ABS_U_Error = 0.028456152177634152		 @ ->(94, 113)
+MAX_ABS_V_Error = 0.02435523804080757		 @ ->(106, 121)
+MAX_RS_Error    = 38.74785053105429		 @ ->(78, 93)
+Bulk_Velocity_ABS_Error = 0.0015130994550409862	 @ ->(97, 125)
+======================================================================
+======================================================================
+Itterate = 8000	 RMS_Error = 1.602162064953545
+MAX_ABS_U_Error = 0.030090880588010745		 @ ->(128, 127)
+MAX_ABS_V_Error = 0.05127419368898966		 @ ->(128, 128)
+MAX_RS_Error    = 193.5852338240168		 @ ->(88, 104)
+Bulk_Velocity_ABS_Error = 0.0023866775490972067	 @ ->(127, 128)
+======================================================================
+======================================================================
+Itterate = 9000	 RMS_Error = 0.5793329784308142
+MAX_ABS_U_Error = 0.0325125544064933		 @ ->(82, 117)
+MAX_ABS_V_Error = 0.0567997413186979		 @ ->(128, 128)
+MAX_RS_Error    = 23.590747740805213		 @ ->(106, 93)
+Bulk_Velocity_ABS_Error = 0.001753108363698032	 @ ->(128, 128)
+======================================================================
+======================================================================
+Itterate = 10000	 RMS_Error = 1.797803188158045
+MAX_ABS_U_Error = 0.035815710926805674		 @ ->(127, 128)
+MAX_ABS_V_Error = 0.0323019803451764		 @ ->(127, 128)
+MAX_RS_Error    = 161.84047884662132		 @ ->(70, 81)
+Bulk_Velocity_ABS_Error = 0.0032889789017653366	 @ ->(127, 127)
+======================================================================
+Results saved at : ../Results/CMs_NON_Orthogonal_2018.08.30.15.26_Re(22500.0)_Gr(129_129)_Uw(0.1)/Results0.010000.plt
+Center line values have been saved.
+
+======================================================================
+Itterate = 11000	 RMS_Error = 0.9826129069394641
+MAX_ABS_U_Error = 0.04319043762920801		 @ ->(127, 128)
+MAX_ABS_V_Error = 0.036324283444048144		 @ ->(127, 128)
+MAX_RS_Error    = 62.632405342340384		 @ ->(52, 123)
+Bulk_Velocity_ABS_Error = 0.003027152193768502	 @ ->(127, 127)
+======================================================================
+======================================================================
+Itterate = 12000	 RMS_Error = 1.2496332198223241
+MAX_ABS_U_Error = 0.020868829525857117		 @ ->(89, 82)
+MAX_ABS_V_Error = 0.026977299591390183		 @ ->(128, 128)
+MAX_RS_Error    = 82.07943388715516		 @ ->(96, 78)
+Bulk_Velocity_ABS_Error = 0.0023651456518538985	 @ ->(128, 128)
+======================================================================
+======================================================================
+Itterate = 13000	 RMS_Error = 1.2308897791806126
+MAX_ABS_U_Error = 0.019425626951372437		 @ ->(128, 128)
+MAX_ABS_V_Error = 0.05981364856836728		 @ ->(128, 128)
+MAX_RS_Error    = 68.19982954095		 @ ->(108, 85)
+Bulk_Velocity_ABS_Error = 0.0024908804090951944	 @ ->(128, 128)
+======================================================================
+======================================================================
+Itterate = 14000	 RMS_Error = 0.9033088607803991
+MAX_ABS_U_Error = 0.0181006790522424		 @ ->(63, 113)
+MAX_ABS_V_Error = 0.02878190342240052		 @ ->(128, 128)
+MAX_RS_Error    = 36.3517508670308		 @ ->(23, 93)
+Bulk_Velocity_ABS_Error = 0.0010514053958638825	 @ ->(63, 113)
+======================================================================
+======================================================================
+Itterate = 15000	 RMS_Error = 0.9987720739123785
+MAX_ABS_U_Error = 0.02074364045197819		 @ ->(97, 123)
+MAX_ABS_V_Error = 0.029476469604237745		 @ ->(128, 128)
+MAX_RS_Error    = 52.35081698123439		 @ ->(22, 79)
+Bulk_Velocity_ABS_Error = 0.00226982630651173	 @ ->(128, 128)
+======================================================================
+======================================================================
+Itterate = 16000	 RMS_Error = 1.3329876088096082
+MAX_ABS_U_Error = 0.02907883903820398		 @ ->(128, 128)
+MAX_ABS_V_Error = 0.07479087609923242		 @ ->(128, 128)
+MAX_RS_Error    = 81.005148048738		 @ ->(28, 61)
+Bulk_Velocity_ABS_Error = 0.002259011626878575	 @ ->(127, 127)
+======================================================================
+======================================================================
+Itterate = 17000	 RMS_Error = 1.116680703328887
+MAX_ABS_U_Error = 0.027372419658606633		 @ ->(69, 117)
+MAX_ABS_V_Error = 0.051168644214082196		 @ ->(128, 128)
+MAX_RS_Error    = 42.17324464096637		 @ ->(107, 122)
+Bulk_Velocity_ABS_Error = 0.002029200022855704	 @ ->(127, 127)
+======================================================================
+======================================================================
+Itterate = 18000	 RMS_Error = 0.9237131812977056
+MAX_ABS_U_Error = 0.02358187582290114		 @ ->(70, 115)
+MAX_ABS_V_Error = 0.022635075658364773		 @ ->(79, 127)
+MAX_RS_Error    = 39.811036306953696		 @ ->(16, 100)
+Bulk_Velocity_ABS_Error = 0.0010797678615931331	 @ ->(84, 123)
+======================================================================
+======================================================================
+Itterate = 19000	 RMS_Error = 0.8952540131898982
+MAX_ABS_U_Error = 0.030935790334854784		 @ ->(75, 121)
+MAX_ABS_V_Error = 0.039260987961719444		 @ ->(128, 128)
+MAX_RS_Error    = 33.96016271510335		 @ ->(10, 91)
+Bulk_Velocity_ABS_Error = 0.0023506443019930654	 @ ->(127, 128)
+======================================================================
+======================================================================
+Itterate = 20000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/CMs_NON_Orthogonal_2018.08.30.15.26_Re(22500.0)_Gr(129_129)_Uw(0.1)/Results0.020000.plt
+Center line values have been saved.
+
+======================================================================
+Itterate = 21000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 22000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 23000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 24000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 25000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 26000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 27000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 28000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+
+signal (15): Terminated
+while loading /home/aghnia/0finalRuns/stability/NOCMS/uw0.1/0code/22B21FixedCascaded.jl, in expression starting on line 237
+macro expansion at /home/aghnia/0finalRuns/stability/NOCMS/uw0.1/0code/22B21FixedCascaded.jl:582 [inlined]
+macro expansion at ./simdloop.jl:73 [inlined]
+Coll_CMs_Non_Orthogonal! at /home/aghnia/0finalRuns/stability/NOCMS/uw0.1/0code/22B21FixedCascaded.jl:565
+unknown function (ip: 0x7ff9647726ce)
+jl_call_fptr_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:339 [inlined]
+jl_call_method_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:358 [inlined]
+jl_apply_generic at /home/centos/buildbot/slave/package_tarball64/build/src/gf.c:1933
+main at /home/aghnia/0finalRuns/stability/NOCMS/uw0.1/0code/22B21FixedCascaded.jl:1760
+unknown function (ip: 0x7ff96476c09f)
+jl_call_fptr_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:339 [inlined]
+jl_call_method_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:358 [inlined]
+jl_apply_generic at /home/centos/buildbot/slave/package_tarball64/build/src/gf.c:1933
+do_call at /home/centos/buildbot/slave/package_tarball64/build/src/interpreter.c:75
+eval at /home/centos/buildbot/slave/package_tarball64/build/src/interpreter.c:242
+eval_body at /home/centos/buildbot/slave/package_tarball64/build/src/interpreter.c:543
+jl_interpret_toplevel_thunk at /home/centos/buildbot/slave/package_tarball64/build/src/interpreter.c:692
+jl_toplevel_eval_flex at /home/centos/buildbot/slave/package_tarball64/build/src/toplevel.c:592
+jl_toplevel_eval_flex at /home/centos/buildbot/slave/package_tarball64/build/src/toplevel.c:551
+jl_parse_eval_all at /home/centos/buildbot/slave/package_tarball64/build/src/ast.c:873
+jl_load at /home/centos/buildbot/slave/package_tarball64/build/src/toplevel.c:616
+include_from_node1 at ./loading.jl:569
+unknown function (ip: 0x7ff994dd4b1b)
+jl_call_fptr_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:339 [inlined]
+jl_call_method_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:358 [inlined]
+jl_apply_generic at /home/centos/buildbot/slave/package_tarball64/build/src/gf.c:1933
+include at ./sysimg.jl:14
+unknown function (ip: 0x7ff994c7986b)
+jl_call_fptr_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:339 [inlined]
+jl_call_method_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:358 [inlined]
+jl_apply_generic at /home/centos/buildbot/slave/package_tarball64/build/src/gf.c:1933
+process_options at ./client.jl:305
+_start at ./client.jl:371
+unknown function (ip: 0x7ff994de06e8)
+jl_call_fptr_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:339 [inlined]
+jl_call_method_internal at /home/centos/buildbot/slave/package_tarball64/build/src/julia_internal.h:358 [inlined]
+jl_apply_generic at /home/centos/buildbot/slave/package_tarball64/build/src/gf.c:1933
+jl_apply at /home/centos/buildbot/slave/package_tarball64/build/ui/../src/julia.h:1424 [inlined]
+true_main at /home/centos/buildbot/slave/package_tarball64/build/ui/repl.c:127
+main at /home/centos/buildbot/slave/package_tarball64/build/ui/repl.c:264
+======================================================================
+Itterate = 29000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+__libc_start_main at /build/glibc-bfm8X4/glibc-2.23/csu/../csu/libc-start.c:291
+unknown function (ip: 0x40170c)
+unknown function (ip: 0xffffffffffffffff)
+Allocations: 1978803 (Pool: 1977625; Big: 1178); GC: 1

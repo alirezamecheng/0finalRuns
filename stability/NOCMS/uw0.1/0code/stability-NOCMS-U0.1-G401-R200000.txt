@@ -1,0 +1,21 @@
+Your Selected Method for solver is :CMs_NON_Orthogonal
+Re = 200000.0 Ux = 0.1 (Nx1 , Ny1) ==> (401,401)
+======================================================================
+Itterate = 1000	 RMS_Error = NaN
+MAX_ABS_U_Error = 13967.582696357253		 @ ->(203, 301)
+MAX_ABS_V_Error = 18452.429659667356		 @ ->(203, 301)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 5.3558552672455007e8	 @ ->(203, 301)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/CMs_NON_Orthogonal_2018.08.30.16.10_Re(200000.0)_Gr(401_401)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+ 89.006365 seconds (2.27 M allocations: 107.529 MiB, 0.39% gc time)

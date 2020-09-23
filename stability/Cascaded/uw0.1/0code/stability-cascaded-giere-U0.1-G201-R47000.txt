@@ -1,0 +1,21 @@
+Your Selected Method for solver is :Cas_Geier
+Re = 47000.0 Ux = 0.1 (Nx1 , Ny1) ==> (201,201)
+======================================================================
+Itterate = 1000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/Cas_Geier_2018.09.13.15.33_Re(47000.0)_Gr(201_201)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+ 17.584370 seconds (834.36 k allocations: 40.800 MiB, 1.07% gc time)

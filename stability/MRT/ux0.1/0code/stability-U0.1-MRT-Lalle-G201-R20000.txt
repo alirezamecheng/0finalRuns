@@ -1,0 +1,21 @@
+Your Selected Method for solver is :MRT_Lalle
+Re = 20000.0 Ux = 0.1 (Nx1 , Ny1) ==> (201,201)
+======================================================================
+Itterate = 1000	 RMS_Error = 1.0
+MAX_ABS_U_Error = 7386.851209244225		 @ ->(177, 124)
+MAX_ABS_V_Error = 13595.155473876388		 @ ->(177, 124)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 2.3939382314638397e8	 @ ->(177, 124)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/MRT_Lalle_2018.09.02.11.17_Re(20000.0)_Gr(201_201)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+ 25.981239 seconds (867.88 k allocations: 42.401 MiB, 0.44% gc time)

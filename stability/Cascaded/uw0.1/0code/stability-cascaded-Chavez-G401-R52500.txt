@@ -1,0 +1,21 @@
+Your Selected Method for solver is :Cas_Chavez
+Re = 52500.0 Ux = 0.1 (Nx1 , Ny1) ==> (401,401)
+======================================================================
+Itterate = 1000	 RMS_Error = NaN
+MAX_ABS_U_Error = 2194.818802696124		 @ ->(247, 391)
+MAX_ABS_V_Error = 6823.4261373864965		 @ ->(247, 391)
+MAX_RS_Error    = 1.0		 @ ->(2, 2)
+Bulk_Velocity_ABS_Error = 5.137637382903765e7	 @ ->(247, 391)
+======================================================================
+======================================================================
+Itterate = 2000	 RMS_Error = NaN
+MAX_ABS_U_Error = 0.0		 @ ->(0, 0)
+MAX_ABS_V_Error = 0.0		 @ ->(0, 0)
+MAX_RS_Error    = 0.0		 @ ->(0, 0)
+Bulk_Velocity_ABS_Error = 0.0	 @ ->(0, 0)
+======================================================================
+Results saved at : ../Results/Cas_Chavez_2018.09.04.18.54_Re(52500.0)_Gr(401_401)_Uw(0.1)/Results0.002002.plt
+Ux , Vy and Rho have been saved in "CSV" file format.
+Center line values have been saved.
+
+ 74.479174 seconds (2.04 M allocations: 96.400 MiB, 0.45% gc time)
